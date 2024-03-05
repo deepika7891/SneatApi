@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\100bf6e7-1e1e-495f-9e32-31258c69041e_Screenshot 2024-02-03 212158.png",
+      "PackagePath": "staticwebassets\\uploads\\100bf6e7-1e1e-495f-9e32-31258c69041e_Screenshot 2024-02-03 212158.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\3e483168-b0df-4611-a957-04d68e4d401a_Screenshot 2024-02-01 124024.png",
+      "PackagePath": "staticwebassets\\uploads\\3e483168-b0df-4611-a957-04d68e4d401a_Screenshot 2024-02-01 124024.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\78f05ab4-bd63-496b-bd15-096c8715ca98_Screenshot 2024-01-29 181811.png",
+      "PackagePath": "staticwebassets\\uploads\\78f05ab4-bd63-496b-bd15-096c8715ca98_Screenshot 2024-01-29 181811.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\84a8a82b-6a3a-404f-af19-43318e853c49_image-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\84a8a82b-6a3a-404f-af19-43318e853c49_image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\853a7ced-3f3c-40df-9947-0f7587d2ba0a_Screenshot 2024-02-03 212158.png",
+      "PackagePath": "staticwebassets\\uploads\\853a7ced-3f3c-40df-9947-0f7587d2ba0a_Screenshot 2024-02-03 212158.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\87da509d-409d-41a3-817e-ee890735b8d9_image-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\87da509d-409d-41a3-817e-ee890735b8d9_image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\c9093222-0192-463a-88bd-e7bb5f9f9aff_image-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c9093222-0192-463a-88bd-e7bb5f9f9aff_image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\db9fd556-063f-43ed-a149-f9b0942d3933_image-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\db9fd556-063f-43ed-a149-f9b0942d3933_image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\e9750fba-2352-40de-924c-a35a221aecaa_Screenshot 2024-01-29 181811.png",
+      "PackagePath": "staticwebassets\\uploads\\e9750fba-2352-40de-924c-a35a221aecaa_Screenshot 2024-01-29 181811.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\SneatAPI\\SneatAPI\\wwwroot\\uploads\\fa830c89-bdbc-43f5-a3c2-4fa7218ea35e_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fa830c89-bdbc-43f5-a3c2-4fa7218ea35e_download.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SneatAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SneatAPI.props",
+      "PackagePath": "build\\SneatAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SneatAPI.props",
+      "PackagePath": "buildMultiTargeting\\SneatAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SneatAPI.props",
+      "PackagePath": "buildTransitive\\SneatAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
